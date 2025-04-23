@@ -1,3 +1,6 @@
+-------------------------------------------------------------------------------
+ORIGINAL INSTRUCTIONS:
+-------------------------------------------------------------------------------
 Programming Exercise
 Create a C# console application that is a simple version of Mastermind.  
 The randomly generated answer should be four (4) digits in length, with each digit ranging from 1 to 6.  
@@ -11,3 +14,9 @@ And the user guessed: 4233
 The hint should be: ++-
 
 Publish the source code to Github and provide the (public) link for review.
+
+-------------------------------------------------------------------------------
+TO PLAY:
+-------------------------------------------------------------------------------
+
+Run "Program.cs" via console or within an IDE to play.
