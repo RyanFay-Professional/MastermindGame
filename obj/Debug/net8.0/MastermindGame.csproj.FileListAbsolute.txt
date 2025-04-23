@@ -1,0 +1,14 @@
+D:\Kiddo_Data\projects\MastermindGame\bin\Debug\net8.0\MastermindGame.exe
+D:\Kiddo_Data\projects\MastermindGame\bin\Debug\net8.0\MastermindGame.deps.json
+D:\Kiddo_Data\projects\MastermindGame\bin\Debug\net8.0\MastermindGame.runtimeconfig.json
+D:\Kiddo_Data\projects\MastermindGame\bin\Debug\net8.0\MastermindGame.dll
+D:\Kiddo_Data\projects\MastermindGame\bin\Debug\net8.0\MastermindGame.pdb
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.AssemblyInfoInputs.cache
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.AssemblyInfo.cs
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.csproj.CoreCompileInputs.cache
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.dll
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\refint\MastermindGame.dll
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.pdb
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\MastermindGame.genruntimeconfig.cache
+D:\Kiddo_Data\projects\MastermindGame\obj\Debug\net8.0\ref\MastermindGame.dll
